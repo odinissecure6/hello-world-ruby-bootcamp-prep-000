@@ -1,2 +1,2 @@
-puts "Hello World this ids Odin!"
+puts "Hello World this is Odin!"
 
